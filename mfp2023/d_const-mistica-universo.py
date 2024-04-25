@@ -1,3 +1,6 @@
+# Link dos problemas: https://codeforces.com/group/WYIydkiPyE/contest/450037/attachments/download/20669/MFP.pdf
+# Problem D. Constante Mística do Universo
+
 m1, m2 = map(float, input().split())
 
 # sempre diferentes

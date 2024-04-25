@@ -1,3 +1,6 @@
+# Link dos problemas: https://codeforces.com/group/WYIydkiPyE/contest/450037/attachments/download/20669/MFP.pdf
+# Problem E. Código
+
 digitos = input().split()
 digitos = [int(i) for i in digitos]
 

@@ -1,3 +1,6 @@
+# Link dos problemas: https://codeforces.com/group/WYIydkiPyE/contest/450037/attachments/download/20669/MFP.pdf
+# Problem C. Zigue-Zague
+
 distancia, metros = input().split()
 distancia = int(distancia)
 metros = int(metros)
